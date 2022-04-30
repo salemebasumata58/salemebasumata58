@@ -5,7 +5,7 @@ Hi 👋 My name is Salem Basumata
 Aspiring Full Stack Web Developer
 ---------------------------------
 
-I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications by tech stack like HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Bootstrap.
+I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications by using tech stack like HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Bootstrap.
 
 * 🌍  I'm based in Siliguri, India
 * 🖥️  See my portfolio at [My PortFolio App](http://my-portfolioapp-k1dgiqei8-salemebasumata58.vercel.app)
