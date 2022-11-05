@@ -10,7 +10,7 @@ Aspiring Full Stack Web Developer
 I am a passionate Full Stack Web Developer who focuses on writing clean and user-friendly applications by using tech stack like HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, MongoDB, Bootstrap.
 
 * 🌍  I'm based in Siliguri, West Bengal, India
-* 🖥️  See my portfolio at [My PortFolio App](https://final-portfolio-j0flgihjf-salemebasumata58.vercel.app/)
+* 🖥️  See my portfolio at [My PortFolio App](https://salemebasumata58.github.io/)
 * ✉️  You can contact me at [sbasumatas58@gmail.com](mailto:sbasumatas58@gmail.com)
 * 🧠  I'm learning Data Structure & Algorithm React JS, Redux
 * ⚡  Fun fact My favourite animal is a dog because they're so energetic and friendly.
